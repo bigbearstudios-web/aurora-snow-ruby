@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version = '0.0.1'
   spec.authors = 'Stuart Farnaby, Big Bear Studios'
   spec.license = 'MIT'
-  spec.homepage = 'https://gitlab.com/big-bear-studios-open-source/aurora-snow-ruby/'
+  spec.homepage = 'https://github.com/bigbearstudios/aurora-snow-ruby'
   spec.summary = ''
 
   spec.required_ruby_version = '>= 2.5'
